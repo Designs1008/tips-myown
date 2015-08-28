@@ -1,5 +1,5 @@
 # tips-myown
-This is an iOS practice application for displaying tips and total bill with tips included.
+This is an iOS practice application for displaying the total bill amount including tips, also calculating tips
 
 Time Spent: ~6hours in total
 
